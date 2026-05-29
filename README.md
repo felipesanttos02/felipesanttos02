@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Felipe Santos 💜</h1>
 
 <p align="center">
